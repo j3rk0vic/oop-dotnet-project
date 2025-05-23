@@ -1,0 +1,11 @@
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\bin\Debug\net8.0\WorldCup.DataLayer.deps.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\bin\Debug\net8.0\WorldCup.DataLayer.dll
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\bin\Debug\net8.0\WorldCup.DataLayer.pdb
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\WorldCup.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\WorldCup.DataLayer.AssemblyInfoInputs.cache
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\WorldCup.DataLayer.AssemblyInfo.cs
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\WorldCup.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\WorldCup.DataLayer.dll
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\refint\WorldCup.DataLayer.dll
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\WorldCup.DataLayer.pdb
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\ref\WorldCup.DataLayer.dll
