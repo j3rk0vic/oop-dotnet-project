@@ -9,3 +9,4 @@ C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\refint\WorldCup.DataLayer.dll
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\WorldCup.DataLayer.pdb
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\ref\WorldCup.DataLayer.dll
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.DataLayer\obj\Debug\net8.0\WorldCup.DataLayer.sourcelink.json
