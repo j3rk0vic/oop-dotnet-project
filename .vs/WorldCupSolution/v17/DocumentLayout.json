@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\teamselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\teamselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\teamselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\teamselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25D88BC1-851B-478A-9EC1-D332A388D441}|WorldCup.DataLayer\\WorldCup.DataLayer.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.datalayer\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D88BC1-851B-478A-9EC1-D332A388D441}|WorldCup.DataLayer\\WorldCup.DataLayer.csproj|solutionrelative:worldcup.datalayer\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC2BF78C-EEC5-4ADA-A67F-22E1DA772B7A}|WorldCup.WinForms\\WorldCup.WinForms.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.winforms\\rankingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC2BF78C-EEC5-4ADA-A67F-22E1DA772B7A}|WorldCup.WinForms\\WorldCup.WinForms.csproj|solutionrelative:worldcup.winforms\\rankingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25D88BC1-851B-478A-9EC1-D332A388D441}|WorldCup.DataLayer\\WorldCup.DataLayer.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.datalayer\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D88BC1-851B-478A-9EC1-D332A388D441}|WorldCup.DataLayer\\WorldCup.DataLayer.csproj|solutionrelative:worldcup.datalayer\\services\\matchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25D88BC1-851B-478A-9EC1-D332A388D441}|WorldCup.DataLayer\\WorldCup.DataLayer.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.datalayer\\models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D88BC1-851B-478A-9EC1-D332A388D441}|WorldCup.DataLayer\\WorldCup.DataLayer.csproj|solutionrelative:worldcup.datalayer\\models\\matchevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25D88BC1-851B-478A-9EC1-D332A388D441}|WorldCup.DataLayer\\WorldCup.DataLayer.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.datalayer\\configuration\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25D88BC1-851B-478A-9EC1-D332A388D441}|WorldCup.DataLayer\\WorldCup.DataLayer.csproj|solutionrelative:worldcup.datalayer\\configuration\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,85 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RankingsForm.cs",
-              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WinForms\\RankingsForm.cs",
-              "RelativeDocumentMoniker": "WorldCup.WinForms\\RankingsForm.cs",
-              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WinForms\\RankingsForm.cs",
-              "RelativeToolTip": "WorldCup.WinForms\\RankingsForm.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T10:02:19.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MatchEvent.cs",
-              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.DataLayer\\Models\\MatchEvent.cs",
-              "RelativeDocumentMoniker": "WorldCup.DataLayer\\Models\\MatchEvent.cs",
-              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.DataLayer\\Models\\MatchEvent.cs",
-              "RelativeToolTip": "WorldCup.DataLayer\\Models\\MatchEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:11:18.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MatchService.cs",
-              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.DataLayer\\Services\\MatchService.cs",
-              "RelativeDocumentMoniker": "WorldCup.DataLayer\\Services\\MatchService.cs",
-              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.DataLayer\\Services\\MatchService.cs",
-              "RelativeToolTip": "WorldCup.DataLayer\\Services\\MatchService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T13:34:14.843Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConfigManager.cs",
-              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.DataLayer\\Configuration\\ConfigManager.cs",
-              "RelativeDocumentMoniker": "WorldCup.DataLayer\\Configuration\\ConfigManager.cs",
-              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.DataLayer\\Configuration\\ConfigManager.cs",
-              "RelativeToolTip": "WorldCup.DataLayer\\Configuration\\ConfigManager.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T14:10:54.633Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.DataLayer\\Models\\Player.cs",
-              "RelativeDocumentMoniker": "WorldCup.DataLayer\\Models\\Player.cs",
-              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.DataLayer\\Models\\Player.cs",
-              "RelativeToolTip": "WorldCup.DataLayer\\Models\\Player.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T11:55:03.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WorldCup.WPF\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "WorldCup.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAewBQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAewCYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-24T13:44:29.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "WorldCup.WPF\\MainWindow.xaml",
@@ -124,6 +51,31 @@
               "RelativeToolTip": "WorldCup.WPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-05-24T13:44:29.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamSelectionWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\TeamSelectionWindow.xaml",
+              "RelativeDocumentMoniker": "WorldCup.WPF\\TeamSelectionWindow.xaml",
+              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\TeamSelectionWindow.xaml",
+              "RelativeToolTip": "WorldCup.WPF\\TeamSelectionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-24T14:09:18.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeamSelectionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
+              "RelativeToolTip": "WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwE8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:16:00.859Z",
               "EditorCaption": ""
             }
           ]

@@ -32,6 +32,10 @@ namespace WorldCup.WPF
             File.WriteAllText("settings.txt", settings);
 
             MessageBox.Show("Settings saved!");
+
+            TeamSelectionWindow teamWindow = new TeamSelectionWindow();
+            teamWindow.Show();
+            this.Close();
         }
     }
 }

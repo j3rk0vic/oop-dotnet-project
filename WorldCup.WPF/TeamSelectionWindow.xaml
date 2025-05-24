@@ -1,0 +1,26 @@
+﻿<Window x:Class="WorldCup.WPF.TeamSelectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WorldCup.WPF"
+        mc:Ignorable="d"
+        Title="TeamSelectionWindow" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="300">
+
+            <TextBlock Text="Your Team:" FontWeight="Bold"/>
+            <ComboBox x:Name="cbHomeTeam" IsEnabled="False"/>
+
+            <TextBlock Text="Select Opponent:" FontWeight="Bold"/>
+            <ComboBox x:Name="cbOpponent" SelectionChanged="cbOpponent_SelectionChanged"/>
+
+            <TextBlock Text="Match Result:" FontWeight="Bold" Margin="0,10,0,0"/>
+            <TextBlock x:Name="txtResult" FontSize="20" FontWeight="Bold" TextAlignment="Center"/>
+
+        </StackPanel>
+        
+    </Grid>
+</Window>
