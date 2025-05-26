@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\App.xaml
-3388468713
+4-1996506209
 
-8-726157949
+91089728146
 208-2106300936
-FieldViewWindow.xaml;MainWindow.xaml;TeamSelectionWindow.xaml;
+FieldViewWindow.xaml;MainWindow.xaml;PlayerDetailWindow.xaml;TeamSelectionWindow.xaml;
 
-True
+False
 

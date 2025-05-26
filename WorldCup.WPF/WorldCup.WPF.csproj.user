@@ -5,6 +5,9 @@
     <Compile Update="FieldViewWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="PlayerDetailWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="TeamSelectionWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>

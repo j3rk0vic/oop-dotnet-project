@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using System.IO.Packaging;
 using System.Linq;
 using System.Windows;
 using System.Windows.Controls;
@@ -44,19 +45,19 @@ namespace WorldCup.WPF
             var forwards = players.Where(p => p.Position == "Forward").ToList();
 
             // previsoko mi jee! moran pomaknit nekako doli sve, a i vezu isto doli na sridu stavit :(
-            DrawGoalie(goalies, x: 100);
-            DrawPlayers(defenders, x: 250);
-            DrawPlayers(midfielders, x: 400);
-            DrawPlayers(forwards, x: 550);
+            DrawGoalie(goalies, x: 100, match, fifaCode);
+            DrawPlayers(defenders, x: 250, match, fifaCode);
+            DrawPlayers(midfielders, x: 400, match, fifaCode);
+            DrawPlayers(forwards, x: 550, match, fifaCode);
         }
 
-        private void DrawGoalie(List<Player> goalies, double x)
+        private void DrawGoalie(List<Player> goalies, double x, Match match, string fifaCode)
         {
             if (goalies.Count == 0) return;
 
             Player player = goalies[0];
 
-            var box = CreatePlayerBox(player);
+            var box = CreatePlayerBox(player, match, fifaCode);
 
             double y = 200;
 
@@ -65,7 +66,7 @@ namespace WorldCup.WPF
             fieldCanvas.Children.Add(box);
         }
 
-        private void DrawPlayers(List<Player> players, double x)
+        private void DrawPlayers(List<Player> players, double x, Match match, string fifaCode)
         {
             double startY = 50;
             double spacing = 100;
@@ -73,7 +74,7 @@ namespace WorldCup.WPF
             for (int i = 0; i < players.Count; i++)
             {
                 Player player = players[i];
-                var box = CreatePlayerBox(player);
+                var box = CreatePlayerBox(player, match, fifaCode);
 
                 double y = startY + (i * spacing);
                 Canvas.SetLeft(box, x);
@@ -83,7 +84,7 @@ namespace WorldCup.WPF
             }
         }
 
-        private Border CreatePlayerBox(Player player)
+        private Border CreatePlayerBox(Player player, Match match, string fifaCode)
         {
             Border box = new Border
             {
@@ -128,6 +129,13 @@ namespace WorldCup.WPF
             content.Children.Add(name);
 
             box.Child = content;
+
+            box.MouseLeftButtonUp += (s, e) =>
+            {
+                PlayerDetailWindow detail = new PlayerDetailWindow(player, match, fifaCode);
+                detail.ShowDialog();
+            };
+
             return box;
         }
     }

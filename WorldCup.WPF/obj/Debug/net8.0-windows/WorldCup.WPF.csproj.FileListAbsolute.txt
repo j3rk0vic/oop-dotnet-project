@@ -44,3 +44,5 @@ C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\WorldCup.WinForms.pdb
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\obj\Debug\net8.0-windows\FieldViewWindow.g.cs
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\obj\Debug\net8.0-windows\FieldViewWindow.baml
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\obj\Debug\net8.0-windows\PlayerDetailWindow.g.cs
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\obj\Debug\net8.0-windows\PlayerDetailWindow.baml
