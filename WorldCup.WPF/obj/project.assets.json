@@ -11,6 +11,22 @@
         "runtime": {
           "bin/placeholder/WorldCup.DataLayer.dll": {}
         }
+      },
+      "WorldCup.WinForms/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "WorldCup.DataLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WorldCup.WinForms.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorldCup.WinForms.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
       }
     }
   },
@@ -19,11 +35,17 @@
       "type": "project",
       "path": "../WorldCup.DataLayer/WorldCup.DataLayer.csproj",
       "msbuildProject": "../WorldCup.DataLayer/WorldCup.DataLayer.csproj"
+    },
+    "WorldCup.WinForms/1.0.0": {
+      "type": "project",
+      "path": "../WorldCup.WinForms/WorldCup.WinForms.csproj",
+      "msbuildProject": "../WorldCup.WinForms/WorldCup.WinForms.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0-windows7.0": [
-      "WorldCup.DataLayer >= 1.0.0"
+      "WorldCup.DataLayer >= 1.0.0",
+      "WorldCup.WinForms >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -61,6 +83,9 @@
           "projectReferences": {
             "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.DataLayer\\WorldCup.DataLayer.csproj": {
               "projectPath": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.DataLayer\\WorldCup.DataLayer.csproj"
+            },
+            "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WinForms\\WorldCup.WinForms.csproj": {
+              "projectPath": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WinForms\\WorldCup.WinForms.csproj"
             }
           }
         }

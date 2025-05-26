@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WorldCup.WinForms/1.0.0": {
+        "dependencies": {
+          "WorldCup.DataLayer": "1.0.0"
+        },
+        "runtime": {
+          "WorldCup.WinForms.dll": {}
+        }
+      },
+      "WorldCup.DataLayer/1.0.0": {
+        "runtime": {
+          "WorldCup.DataLayer.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorldCup.WinForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WorldCup.DataLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

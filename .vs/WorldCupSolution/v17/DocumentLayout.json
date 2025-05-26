@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\teamselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\teamselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\fieldviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\fieldviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\fieldviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\fieldviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\teamselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\teamselectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\teamselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\teamselectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|c:\\users\\ijerk\\desktop\\prog\\.net\\projekt\\worldcupsolution\\worldcup.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EF1B5D9-74D2-40F5-96E8-16FF26682E74}|WorldCup.WPF\\WorldCup.WPF.csproj|solutionrelative:worldcup.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,57 +30,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "FieldViewWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\FieldViewWindow.xaml",
+              "RelativeDocumentMoniker": "WorldCup.WPF\\FieldViewWindow.xaml",
+              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\FieldViewWindow.xaml",
+              "RelativeToolTip": "WorldCup.WPF\\FieldViewWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-26T10:27:48.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FieldViewWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\FieldViewWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WorldCup.WPF\\FieldViewWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\FieldViewWindow.xaml.cs",
+              "RelativeToolTip": "WorldCup.WPF\\FieldViewWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:35:49.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "WorldCup.WPF\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "WorldCup.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAewCYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAxwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T13:44:29.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T10:52:14.151Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "WorldCup.WPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\MainWindow.xaml",
-              "RelativeToolTip": "WorldCup.WPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-24T13:44:29.812Z",
-              "EditorCaption": ""
+              "Title": "TeamSelectionWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
+              "RelativeToolTip": "WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAMwF8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T10:54:41.475Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TeamSelectionWindow.xaml",
               "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\TeamSelectionWindow.xaml",
               "RelativeDocumentMoniker": "WorldCup.WPF\\TeamSelectionWindow.xaml",
               "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\TeamSelectionWindow.xaml",
               "RelativeToolTip": "WorldCup.WPF\\TeamSelectionWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-24T14:09:18.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TeamSelectionWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
-              "RelativeDocumentMoniker": "WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\ijerk\\Desktop\\prog\\.NET\\PROJEKT\\WorldCupSolution\\WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
-              "RelativeToolTip": "WorldCup.WPF\\TeamSelectionWindow.xaml.cs",
-              "ViewState": "AgIAADYAAAAAAAAAAAAYwE8AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T14:16:00.859Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T10:54:59.625Z"
             }
           ]
         }

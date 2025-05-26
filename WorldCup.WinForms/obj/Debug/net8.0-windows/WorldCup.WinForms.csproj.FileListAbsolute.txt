@@ -33,3 +33,4 @@ C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WinForms\bin\
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WinForms\bin\Debug\net8.0-windows\Images\Luka MODRIC.jpg
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WinForms\obj\Debug\net8.0-windows\WorldCup.WinForms.RankingsForm.resources
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WinForms\obj\Debug\net8.0-windows\WorldCup.WinForms.sourcelink.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WinForms\bin\Debug\net8.0-windows\bin\Debug\net8.0-windows\favorite.txt

@@ -25,6 +25,8 @@ namespace WorldCup.DataLayer.Services
                 string path = championship == "men" ? menJsonPath : womenJsonPath;
 
                 // puca mi u throw new... liniji kad runan WorldCup.WPF -> (vidi poslje)
+
+                // radi sad. triba san samo dependency dodat u WorldCup.WPF (doda san dependency na WorldCup.WinForms)
                 if (!File.Exists(path))
                     throw new FileNotFoundException($"JSON file not found: {path}");
 

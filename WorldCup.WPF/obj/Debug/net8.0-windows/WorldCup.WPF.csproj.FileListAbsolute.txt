@@ -25,3 +25,22 @@ C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\obj\Debug
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\obj\Debug\net8.0-windows\ref\WorldCup.WPF.dll
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\obj\Debug\net8.0-windows\TeamSelectionWindow.g.cs
 C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\obj\Debug\net8.0-windows\TeamSelectionWindow.baml
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\config.txt
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\WorldCup.WinForms.deps.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\WorldCup.WinForms.runtimeconfig.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\bin\Debug\net8.0-windows\favorite.txt
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\Data\Men\group_results.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\Data\Men\matches.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\Data\Men\results.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\Data\Men\teams.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\Data\Women\group_results.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\Data\Women\matches.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\Data\Women\results.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\Data\Women\teams.json
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\Images\goat.jpg
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\Images\Luka MODRIC.jpg
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\WorldCup.WinForms.exe
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\WorldCup.WinForms.dll
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\bin\Debug\net8.0-windows\WorldCup.WinForms.pdb
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\obj\Debug\net8.0-windows\FieldViewWindow.g.cs
+C:\Users\ijerk\Desktop\prog\.NET\PROJEKT\WorldCupSolution\WorldCup.WPF\obj\Debug\net8.0-windows\FieldViewWindow.baml

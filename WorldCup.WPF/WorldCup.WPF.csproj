@@ -9,7 +9,18 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="field.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\WorldCup.DataLayer\WorldCup.DataLayer.csproj" />
+    <ProjectReference Include="..\WorldCup.WinForms\WorldCup.WinForms.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="field.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
   </ItemGroup>
 
 </Project>

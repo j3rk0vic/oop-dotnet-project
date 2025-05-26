@@ -64,8 +64,8 @@ namespace WorldCup.WPF
             if (cbOpponent.SelectedItem == null)
                 return;
 
-            string fifaCode = File.ReadAllText("favorite.txt").Trim();
-            string opponentCode = cbOpponent.SelectedItem.ToString();
+            string fifaCode = File.ReadAllText("favorite.txt").Trim(); // ne smi bit null jer ga citan iz filea (ne more bit null ustvari)
+            string? opponentCode = cbOpponent.SelectedItem.ToString();
 
             File.WriteAllText("config.txt", "json");
 
@@ -88,5 +88,11 @@ namespace WorldCup.WPF
             txtResult.Text = "No result found.";
         }
 
+        private void btnShowField_Click(object sender, RoutedEventArgs e)
+        {
+            FieldViewWindow field = new FieldViewWindow();
+            field.Show();
+            this.Close();
+        }
     }
 }
